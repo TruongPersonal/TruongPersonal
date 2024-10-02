@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>💫 Hi there,</h1>
+  <h1 style="border: none; display: inline-block;">💫 Hi there,</h1>
   <img src="https://visitcount.itsvg.in/api?id=ngoquangtruong-personal&icon=8&color=6" alt="Visitor Count" style="margin-left: auto;" />
 </div>
 
