@@ -8,14 +8,14 @@
 <h3>About Me</h3>
 <ul>
   <li>🔭 <strong>Current Role:</strong> Full Stack Developer & App Developer</li>
-  <li>🌱 <strong>Learning Goals:</strong> React, Node.js, Flutter</li>
+  <li>🌱 <strong>Learning Goals:</strong> AI, Cross-platform App, UI/UX design</li>
   <li>👯 <strong>Collaboration Interests:</strong> Web and mobile development projects</li>
-  <li>🤔 <strong>Seeking Help With:</strong> UI/UX design, mobile application development</li>
-  <li>💬 <strong>Ask Me About:</strong> JavaScript, Python, Dart, Django, Flask</li>
+  <li>🤔 <strong>Seeking Help With:</strong> Data structure, iOS mobile development</li>
+  <li>💬 <strong>Ask Me About:</strong> C/C++, Python, HTML5, CSS3, JavaScript</li>
   <li>📫 <strong>Reach Me At:</strong> <a href="mailto:ngoquangtruong.personal@gmail.com">Email</a></li>
-  <li>😄 <strong>Pronouns:</strong> He, Him, Ngô Quang Trường</li>
-  <li>⚡ <strong>Fun Fact:</strong> I am a sonder – aware of the complex lives of those around me.</li>
-  <li>🌟 <strong>Another Fun Fact:</strong> I love playing chess and participate in online tournaments.</li>
+  <li>😄 <strong>Pronouns:</strong> He/Him, Bắp🌽</li>
+  <li>⚡ <strong>Fun Fact:</strong> I am a sonder – aware of the complex lives of those around me.
+  I enjoy making others happy and sharing my knowledge with them. I love engaging in both indoor and outdoor activities.</li>
 </ul>
 
 <div style="display: flex; justify-content: space-between;">
@@ -49,7 +49,18 @@
   
   <div style="width: 50%;">
     <h3>💻 Tech Stack:</h3>
-    <!-- Thêm các biểu tượng ở đây -->
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" alt="Canva" />
   </div>
 </div>
 
