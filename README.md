@@ -1,5 +1,5 @@
 ## 💫 Hi there,
----
+
 
 ### **About Me**
 - 🔭 **Current Role:** **Full Stack Developer** & **App Developer**  
