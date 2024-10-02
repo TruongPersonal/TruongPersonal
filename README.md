@@ -1,6 +1,8 @@
+<div style="display: flex; justify-content: space-between;">
 <h1>💫 Hi there,</h1>
 <div style="text-align: right;">
   <img src="https://visitcount.itsvg.in/api?id=ngoquangtruong-personal&icon=8&color=6" alt="Visitor Count" />
+</div>
 </div>
 
 <h3>About Me</h3>
@@ -18,8 +20,31 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 50%;">
-    <h3>🌐 Socials:</h3>
-    <!-- Thêm các liên kết ở đây -->
+<h3>🌐 Socials:</h3>
+<a href="https://discord.gg/EfAQq4px">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+</a>  
+<a href="https://facebook.com/ngoquangtruong.personal">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+</a>  
+<a href="https://instagram.com/ngoquangtruong.personal">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+</a>  
+<a href="https://linkedin.com/in/ngoquangtruong">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>  
+<a href="https://pinterest.com/ngo_quang_truong">
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest" />
+</a>  
+<a href="https://tiktok.com/@ngo_quang_truong">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" />
+</a>  
+<a href="https://x.com/ngoquangtruongX">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+</a>  
+<a href="https://youtube.com/@ngoquangtruong.personal">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+</a>
   </div>
   
   <div style="width: 50%;">
