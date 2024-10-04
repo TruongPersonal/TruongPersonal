@@ -112,7 +112,7 @@
 ### 📫 Reach me on my social:
 
 <p align="center">
-  <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none;">
+  <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none !important;">
     <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
   </a>
   <a href="https://facebook.com/ngoquangtruong.personal" target="_blank">
