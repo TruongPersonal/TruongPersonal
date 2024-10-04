@@ -80,7 +80,7 @@
 
 <img align="left" width="50" src="https://github.com/TienNHM.png" />
 <img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
-<h2 align="center">Hi 👋, I'm Truong Cipher</h2>
+<h2 align="center">Hi, I'm Truong Cipher 👋</h2>
 
 ### 💫 About Me
 > 🔭 **Current Role**: Full Stack Developer & App Developer
@@ -101,7 +101,7 @@
 
 ### 📫 Reach me on my social:
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none !important;">
     <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
   </a>
@@ -126,33 +126,6 @@
   <a href="https://youtube.com/@ngoquangtruong.personal" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-</p> -->
-
-<p align="center">
-  <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png" 
-       onclick="window.open('https://discord.gg/EfAQq4px', '_blank')" 
-       style="cursor: pointer;"/>
-  <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" 
-       onclick="window.open('https://facebook.com/ngoquangtruong.personal', '_blank')" 
-       style="cursor: pointer;"/>
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" 
-       onclick="window.open('https://instagram.com/ngoquangtruong.personal', '_blank')" 
-       style="cursor: pointer;"/>
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" 
-       onclick="window.open('https://linkedin.com/in/ngoquangtruong', '_blank')" 
-       style="cursor: pointer;"/>
-  <img src="https://img.icons8.com/fluent/48/000000/pinterest.png" 
-       onclick="window.open('https://pinterest.com/ngo_quang_truong', '_blank')" 
-       style="cursor: pointer;"/>
-  <img src="https://img.icons8.com/fluent/48/000000/tiktok.png" 
-       onclick="window.open('https://tiktok.com/@ngo_quang_truong', '_blank')" 
-       style="cursor: pointer;"/>
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" 
-       onclick="window.open('https://x.com/ngoquangtruongX', '_blank')" 
-       style="cursor: pointer;"/>
-  <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" 
-       onclick="window.open('https://youtube.com/@ngoquangtruong.personal', '_blank')" 
-       style="cursor: pointer;"/>
 </p>
 
 ### 💻 My skills and Tech Stack:
