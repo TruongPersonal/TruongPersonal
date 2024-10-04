@@ -87,8 +87,8 @@
 <!-- ![](https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square)
 <img align="right" width="50" src="https://github.com/TienNHM.png" /> -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img width="50" src="https://github.com/TienNHM.png" />
-  <img src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
+  <img align="right" width="50" src="https://github.com/TienNHM.png" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
 </div>
 <h2 align="center">Hi 👋, I'm Truong Cipher</h2>
 <p align="center">
