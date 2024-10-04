@@ -87,9 +87,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square)
 
-<h1 align="center">Hi 👋, I'm Truong Cipher</h1>
+<h2 align="center">Hi 👋, I'm Truong Cipher</h2>
 <p align="center">
-  <h2 align="center" style="border: none;">A passionate developer from Vietnam 🇻🇳</h2>
+  <h3 align="center" style="border: none;">A passionate developer from Vietnam 🇻🇳</h3>
 </p>
 
 > 🔭 **Current Role**: Full Stack Developer & App Developer
@@ -166,7 +166,7 @@
     </td>
     <td>
       <p align="center"> 
-
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
