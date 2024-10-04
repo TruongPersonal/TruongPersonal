@@ -160,14 +160,13 @@
 
 <table style="width:100%;">
   <tr>
-    <td style="width:50%;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngoquangtruong-personal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
-    <td style="width:50%;">
+    <td>
       <p align="center"> 
         <img src="https://github-readme-stats.vercel.app/api?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
