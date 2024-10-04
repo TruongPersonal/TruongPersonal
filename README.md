@@ -101,7 +101,7 @@
 
 ### 📫 Reach me on my social:
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none !important;">
     <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
   </a>
@@ -126,6 +126,33 @@
   <a href="https://youtube.com/@ngoquangtruong.personal" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
+</p> -->
+
+<p align="center">
+  <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png" 
+       onclick="window.open('https://discord.gg/EfAQq4px', '_blank')" 
+       style="cursor: pointer;"/>
+  <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" 
+       onclick="window.open('https://facebook.com/ngoquangtruong.personal', '_blank')" 
+       style="cursor: pointer;"/>
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" 
+       onclick="window.open('https://instagram.com/ngoquangtruong.personal', '_blank')" 
+       style="cursor: pointer;"/>
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" 
+       onclick="window.open('https://linkedin.com/in/ngoquangtruong', '_blank')" 
+       style="cursor: pointer;"/>
+  <img src="https://img.icons8.com/fluent/48/000000/pinterest.png" 
+       onclick="window.open('https://pinterest.com/ngo_quang_truong', '_blank')" 
+       style="cursor: pointer;"/>
+  <img src="https://img.icons8.com/fluent/48/000000/tiktok.png" 
+       onclick="window.open('https://tiktok.com/@ngo_quang_truong', '_blank')" 
+       style="cursor: pointer;"/>
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" 
+       onclick="window.open('https://x.com/ngoquangtruongX', '_blank')" 
+       style="cursor: pointer;"/>
+  <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" 
+       onclick="window.open('https://youtube.com/@ngoquangtruong.personal', '_blank')" 
+       style="cursor: pointer;"/>
 </p>
 
 ### 💻 My skills and Tech Stack:
@@ -138,7 +165,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -166,7 +192,6 @@
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
-<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/> -->
 
 <!-- # Certificates:
 
