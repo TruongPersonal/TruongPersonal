@@ -87,9 +87,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square)
 
-<h2 align="center">Hi 👋, I'm Truong Cipher</h2>
+<h1 align="center">Hi 👋, I'm Truong Cipher</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h2 align="center">A passionate developer from Vietnam 🇻🇳 </h2>
 </p>
 
 > 🔭 **Current Role**: Full Stack Developer & App Developer
@@ -156,17 +156,17 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
-### GitHub Stats and Activities:
+### 📊 GitHub Stats and Activities:
 
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngoquangtruong-personal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngoquangtruong-personal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
     <td>
       <p align="center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
