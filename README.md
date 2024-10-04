@@ -64,7 +64,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=ngoquangtruong-personal&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ngoquangtruong-personal&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
@@ -112,8 +111,9 @@
 ### 📫 Reach me on my social:
 
 <p align="center">
-  [![Discord](https://img.icons8.com/fluent/48/000000/discord-logo.png)](https://discord.gg/EfAQq4px)  
-
+  <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none !important;">
+    <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
+  </a>
   <a href="https://facebook.com/ngoquangtruong.personal" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   </a>
@@ -136,14 +136,6 @@
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
 </p>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngoquangtruong.personal)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngoquangtruong.personal)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ngoquangtruong)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ngo_quang_truong)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ngo_quang_truong)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ngoquangtruongX)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ngoquangtruong.personal) 
 
 ### 💻 My skills and Tech Stack:
 <p align="center">
@@ -172,7 +164,17 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Developer" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%"/>
       </p>
     </td>
   </tr>
