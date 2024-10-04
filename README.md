@@ -90,12 +90,12 @@
   <img align="left" width="50" src="https://github.com/TienNHM.png" />
   <img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
 </p>
-<br />
 <h2 align="center">Hi 👋, I'm Truong Cipher</h2>
 <p align="center">
   <h3 align="center" style="border: none;">A passionate developer from Vietnam 🇻🇳</h3>
 </p>
 
+### 💫 About Me
 > 🔭 **Current Role**: Full Stack Developer & App Developer
 > <br />
 > 🌱 **Learning Goals**: AI, Cross-platform App, UI/UX design
@@ -111,8 +111,6 @@
 > 😄 **Pronouns:** He/Him or Bắp🌽.
 ><br />
 > ⚡ **Fun Fact:** I am a sonder – aware of the complex lives of those around me. I enjoy making others happy and sharing my knowledge with them. I love engaging in both indoor and outdoor activities.
-
-<br />
 
 ### 📫 Reach me on my social:
 
