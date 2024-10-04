@@ -84,11 +84,5 @@
 ---
 
 <p align="center">
-<table style="width:100%;">
-<tr>
-  <td>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="80%"/>
 </p>
