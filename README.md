@@ -89,7 +89,7 @@
 
 <h1 align="center">Hi 👋, I'm Truong Cipher</h1>
 <p align="center">
-  <h2 align="center">A passionate developer from Vietnam 🇻🇳 </h2>
+  <h2 align="center" style="border: none;">A passionate developer from Vietnam 🇻🇳</h2>
 </p>
 
 > 🔭 **Current Role**: Full Stack Developer & App Developer
@@ -162,11 +162,11 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngoquangtruong-personal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
     </td>
     <td>
       <p align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
+
       </p>
     </td>
   </tr>
