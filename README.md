@@ -170,9 +170,7 @@
   </tr>
 </table>
 
-<table style="width:100%;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%"/>
-</table>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%"/>
 
 <!-- # Certificates:
 
