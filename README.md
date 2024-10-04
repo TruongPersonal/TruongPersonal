@@ -93,19 +93,19 @@
 </p>
 
 > 🔭 **Current Role**: Full Stack Developer & App Developer
-<br />
+> <br />
 > 🌱 **Learning Goals**: AI, Cross-platform App, UI/UX design
-<br />
+> <br />
 > 👯 **Collaboration Interests:** Web and mobile development projects
-<br />
+> <br />
 > 🤔 **Seeking Help With:** Data structure, iOS mobile development
-<br />
+> <br />
 > 💬 **Ask Me About:** C/C++, Python, HTML5, CSS3, JavaScript
-<br />
+> <br />
 > 📫 **Reach Me At:** [Email](mailto:your_email@example.com)
-<br />
+><br />
 > 😄 **Pronouns:** He/Him or Bắp🌽.
-<br />
+><br />
 > ⚡ **Fun Fact:** I am a sonder – aware of the complex lives of those around me. I enjoy making others happy and sharing my knowledge with them. I love engaging in both indoor and outdoor activities.
 
 <br />
