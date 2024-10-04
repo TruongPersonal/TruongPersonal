@@ -84,8 +84,12 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-![](https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square)
-<img align="right" width="50" src="https://github.com/TienNHM.png" />
+<!-- ![](https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square)
+<img align="right" width="50" src="https://github.com/TienNHM.png" /> -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img width="50" src="https://github.com/TienNHM.png" />
+  <img src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
+</div>
 <h2 align="center">Hi 👋, I'm Truong Cipher</h2>
 <p align="center">
   <h3 align="center" style="border: none;">A passionate developer from Vietnam 🇻🇳</h3>
