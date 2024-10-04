@@ -78,13 +78,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
-
-<!-- ![](https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square)
-<img align="right" width="50" src="https://github.com/TienNHM.png" /> -->
 <img align="left" width="50" src="https://github.com/TienNHM.png" />
 <img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
 <h2 align="center">Hi 👋, I'm Truong Cipher</h2>
@@ -170,7 +163,8 @@
 
 ---
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" max-width="80%" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" align="center"/>
+
 <!-- # Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
