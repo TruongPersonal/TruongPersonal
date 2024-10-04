@@ -112,9 +112,12 @@
 ### 📫 Reach me on my social:
 
 <p align="center">
-  <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none !important;">
+  <!-- <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none !important;">
     <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
-  </a>
+  </a> -->
+  
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EfAQq4px)  
+
   <a href="https://facebook.com/ngoquangtruong.personal" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   </a>
@@ -137,6 +140,14 @@
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
 </p>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngoquangtruong.personal)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngoquangtruong.personal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ngoquangtruong)  
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ngo_quang_truong)  
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ngo_quang_truong)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ngoquangtruongX)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ngoquangtruong.personal) 
 
 ### 💻 My skills and Tech Stack:
 <p align="center">
