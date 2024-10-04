@@ -91,9 +91,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
 </p>
 <h2 align="center">Hi 👋, I'm Truong Cipher</h2>
-<p align="center">
-  <h3 align="center" style="border: none;">A passionate developer from Vietnam 🇻🇳</h3>
-</p>
+<h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 
 ### 💫 About Me
 > 🔭 **Current Role**: Full Stack Developer & App Developer
