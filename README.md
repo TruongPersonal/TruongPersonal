@@ -1,4 +1,4 @@
-# 💫 About Me
+<!-- # 💫 About Me
 ---
 
 ### **About Me**
@@ -20,7 +20,7 @@
 - 📫 **Reach Me At:**  
    You can connect with me through [Email](mailto:your_email@example.com) or social media. I'm always open to discussions and networking!
 
-- 😄 **Pronouns:** He, Him, or Ngô Quang Trường.
+- 😄 **Pronouns:** He/Him or Ngô Quang Trường.
 
 - ⚡ **Fun Fact:**  
    I am a **sonder** – aware of the complex lives of those around me. This curiosity drives me to learn about others' experiences.
@@ -77,3 +77,109 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ngoquangtruongPayPal) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+ -->
+
+
+
+
+<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
+<img align="right" width="50" src="https://github.com/TienNHM.png" />
+<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
+
+![](https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square)
+
+<h2 align="center">Hi 👋, I'm Truong Cipher</h2>
+<p align="center">
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+</p>
+
+> 🔭 **Current Role**: Full Stack Developer & App Developer
+> 🌱 **Learning Goals**: AI, Cross-platform App, UI/UX design
+> 👯 **Collaboration Interests:** Web and mobile development projects
+> 🤔 **Seeking Help With:** Data structure, iOS mobile development
+> 💬 **Ask Me About:** C/C++, Python, HTML5, CSS3, JavaScript
+> 📫 **Reach Me At:** [Email](mailto:your_email@example.com)
+> 😄 **Pronouns:** He/Him, Bắp🌽.
+> ⚡ **Fun Fact:** I am a sonder – aware of the complex lives of those around me. I enjoy making others happy and sharing my knowledge with them. I love engaging in both indoor and outdoor activities.
+
+<br />
+
+### 📫 Reach me on my social:
+
+<p align="center">
+  <a href="https://discord.gg/EfAQq4px" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
+  </a>
+  <a href="https://facebook.com/ngoquangtruong.personal" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
+  </a>
+  <a href="https://instagram.com/ngoquangtruong.personal" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a>
+  <a href="https://linkedin.com/in/ngoquangtruong" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://pinterest.com/ngo_quang_truong" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/pinterest.png"/>
+  </a>
+  <a href="https://tiktok.com/@ngo_quang_truong" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/>
+  </a>
+  <a href="https://x.com/ngoquangtruongX" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  </a>
+  <a href="https://youtube.com/@ngoquangtruong.personal" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+</p>
+
+### My skills and Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" alt="Canva" />
+</p>
+
+### GitHub Stats and Activities:
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngoquangtruong-personal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- # Certificates:
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
+- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning) -->
