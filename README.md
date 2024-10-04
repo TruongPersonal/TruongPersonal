@@ -85,10 +85,8 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square)
 <img align="right" width="50" src="https://github.com/TienNHM.png" /> -->
-<p align="center">
-  <img align="left" width="50" src="https://github.com/TienNHM.png" />
-  <img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
-</p>
+<img align="left" width="50" src="https://github.com/TienNHM.png" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
 <h2 align="center">Hi 👋, I'm Truong Cipher</h2>
 
 ### 💫 About Me
