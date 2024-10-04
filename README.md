@@ -84,5 +84,6 @@
 ---
 
 <p align="center">
-<img src="./images/Sologan.png" alt="Developer Quote" />
+  "If you can dream it, you can do it"
+  <img src="./images/Slogan_background.png.png" alt="Developer Quote" width="100%"/>
 </p>
