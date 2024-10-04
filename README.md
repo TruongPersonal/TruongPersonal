@@ -84,5 +84,5 @@
 ---
 
 <p align="center">
-  <img src="./images/Slogan.png" alt="Developer Quote" width="100%"/>
+  <img src="./images/Sologan.png" alt="Developer Quote" width="100%"/>
 </p>
