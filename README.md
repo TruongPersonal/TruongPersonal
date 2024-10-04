@@ -93,12 +93,19 @@
 </p>
 
 > 🔭 **Current Role**: Full Stack Developer & App Developer
+<br />
 > 🌱 **Learning Goals**: AI, Cross-platform App, UI/UX design
+<br />
 > 👯 **Collaboration Interests:** Web and mobile development projects
+<br />
 > 🤔 **Seeking Help With:** Data structure, iOS mobile development
+<br />
 > 💬 **Ask Me About:** C/C++, Python, HTML5, CSS3, JavaScript
+<br />
 > 📫 **Reach Me At:** [Email](mailto:your_email@example.com)
-> 😄 **Pronouns:** He/Him, Bắp🌽.
+<br />
+> 😄 **Pronouns:** He/Him or Bắp🌽.
+<br />
 > ⚡ **Fun Fact:** I am a sonder – aware of the complex lives of those around me. I enjoy making others happy and sharing my knowledge with them. I love engaging in both indoor and outdoor activities.
 
 <br />
@@ -132,7 +139,7 @@
   </a>
 </p>
 
-### My skills and Tech Stack:
+### 💻 My skills and Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
