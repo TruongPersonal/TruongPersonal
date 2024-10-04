@@ -3,6 +3,7 @@
 <h2 align="center">Hi, I'm Truong Cipher 👋</h2>
 
 ### 💫 About Me
+
 > 🔭 **Current Role**: Full Stack Developer & App Developer
 > <br />
 > 🌱 **Learning Goals**: AI, Cross-platform App, UI/UX design
@@ -13,10 +14,9 @@
 > <br />
 > 💬 **Ask Me About:** C/C++, Python, HTML5, CSS3, JavaScript
 > <br />
-> 📫 **Contact Me By Email:** [ngoquangtruong.personal@gmail.com](mailto:ngoquangtruong.personal@gmail.com)
-><br />
+> 📫 **Contact Me By Email:** [ngoquangtruong.personal@gmail.com](mailto:ngoquangtruong.personal@gmail.com) ><br />
 > 😄 **Pronouns:** He/Him or Bắp🌽.
-><br />
+> <br />
 > ⚡ **Fun Fact:** I am a sonder – aware of the complex lives of those around me. I enjoy making others happy and sharing my knowledge with them. I love engaging in both indoor and outdoor activities.
 
 ### 📫 Reach me on my social:
@@ -49,6 +49,7 @@
 </p>
 
 ### 💻 My skills and Tech Stack:
+
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -82,6 +83,12 @@
 
 ---
 
+<table style="width:100%;">
+<tr>
+  <td>
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%"/>
 </p>
+    </td>
+  </tr>
+</table>
