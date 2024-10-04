@@ -103,7 +103,7 @@
 > <br />
 > 💬 **Ask Me About:** C/C++, Python, HTML5, CSS3, JavaScript
 > <br />
-> 📫 **Reach Me At:** [Email](mailto:your_email@example.com)
+> 📫 **Contact Me By Email:** [ngoquangtruong.personal@gmail.com](mailto:ngoquangtruong.personal@gmail.com)
 ><br />
 > 😄 **Pronouns:** He/Him or Bắp🌽.
 ><br />
