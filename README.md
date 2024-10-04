@@ -171,13 +171,7 @@
 </table>
 
 <table style="width:100%;">
-  <tr>
-    <td>
-      <p align="center"> 
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%"/>
-      </p>
-    </td>
-  </tr>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%"/>
 </table>
 
 <!-- # Certificates:
