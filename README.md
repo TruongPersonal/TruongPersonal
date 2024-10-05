@@ -30,7 +30,7 @@
     <img src="./images/Icons/Facebook.png" width="40"/>
   </a>
   <a href="https://instagram.com/ngoquangtruong.personal" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+    <img src="./images/Icons/Instagram.png" width="40"/>
   </a>
   <a href="https://linkedin.com/in/ngoquangtruong" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
