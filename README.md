@@ -24,10 +24,10 @@
 
 <p align="center">
   <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none !important;">
-    <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
+    <img src="./images/Icons/Discord.png" width="40"/>
   </a>
   <a href="https://facebook.com/ngoquangtruong.personal" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
+    <img src="./images/Icons/Facebook.png" width="40"/>
   </a>
   <a href="https://instagram.com/ngoquangtruong.personal" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
