@@ -42,7 +42,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/>
   </a>
   <a href="https://x.com/ngoquangtruongX" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=48&id=ClbD5JTFM7FA&format=png&color=000000"/>
   </a>
   <a href="https://youtube.com/@ngoquangtruong.personal" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
