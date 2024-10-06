@@ -33,19 +33,19 @@
     <img src="./images/Icons/Instagram.png" width="40"/>
   </a>
   <a href="https://linkedin.com/in/ngoquangtruong" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img src="./images/Icons/Linkedin.png" width="40"/>
   </a>
   <a href="https://pinterest.com/ngo_quang_truong" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/pinterest.png"/>
+    <img src="./images/Icons/Pinterest.png" width="40"/>
   </a>
   <a href="https://tiktok.com/@ngo_quang_truong" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/>
+    <img src="./images/Icons/Tiktok.png" width="40"/>
   </a>
   <a href="https://x.com/ngoquangtruongX" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+    <img src="./images/Icons/X.png" width="40"/>
   </a>
   <a href="https://youtube.com/@ngoquangtruong.personal" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+    <img src="./images/Icons/Youtube.png" width="40"/>
   </a>
 </p>
 
