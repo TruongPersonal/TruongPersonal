@@ -24,28 +24,28 @@
 
 <p align="center">
   <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none !important;">
-    <img src="./images/Icons/Discord.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
   </a>
   <a href="https://facebook.com/ngoquangtruong.personal" target="_blank">
-    <img src="./images/Icons/Facebook.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   </a>
   <a href="https://instagram.com/ngoquangtruong.personal" target="_blank">
-    <img src="./images/Icons/Instagram.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
   <a href="https://linkedin.com/in/ngoquangtruong" target="_blank">
-    <img src="./images/Icons/Linkedin.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://pinterest.com/ngo_quang_truong" target="_blank">
-    <img src="./images/Icons/Pinterest.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/pinterest.png"/>
   </a>
   <a href="https://tiktok.com/@ngo_quang_truong" target="_blank">
-    <img src="./images/Icons/Tiktok.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/>
   </a>
   <a href="https://x.com/ngoquangtruongX" target="_blank">
-    <img src="./images/Icons/X.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
   </a>
   <a href="https://youtube.com/@ngoquangtruong.personal" target="_blank">
-    <img src="./images/Icons/Youtube.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
 </p>
 
