@@ -85,5 +85,5 @@
 ---
 
 <p align="center">
-  <img src="./assets/images/Sologan.png" alt="Developer Quote" width="100%"/>
+  <img src="./assets/images/Snake.svg" alt="Developer Quote" width="100%"/>
 </p>
