@@ -1,4 +1,4 @@
-<img align="left" width="50" src="./images/Avatar.png" />
+<img align="left" width="50" src="./assets/images/Avatar.png" />
 <img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
 <h2 align="center">Hi, I'm Truong Cipher 👋</h2>
 
@@ -76,7 +76,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="./images/Coding_freak.gif" alt="Developer" width="100%"/>
+        <img src="./assets/images/Coding_freak.gif" alt="Developer" width="100%"/>
       </p>
     </td>
   </tr>
@@ -85,5 +85,5 @@
 ---
 
 <p align="center">
-  <img src="./images/Sologan.png" alt="Developer Quote" width="100%"/>
+  <img src="./assets/images/Sologan.png" alt="Developer Quote" width="100%"/>
 </p>
