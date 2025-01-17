@@ -1,11 +1,11 @@
 <img align="left" width="50" src="./assets/images/Avatar.png" />
-<img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruong-personal&style=flat-square" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruongGH&style=flat-square" />
 <h2 align="center">Hi, I'm Truong Cipher 👋</h2>
 
 ### 💫 About Me
 
 > 🔭 **Current Role**: Full Stack Developer & App Developer
-> <br />
+> <br />ngoquangtruong.isme@gmail.com
 > 🌱 **Learning Goals**: AI, Cross-platform App, UI/UX design
 > <br />
 > 👯 **Collaboration Interests:** Web and mobile development projects
@@ -14,8 +14,7 @@
 > <br />
 > 💬 **Ask Me About:** C/C++, Python, HTML5, CSS3, JavaScript
 > <br />
-> 📫 **Contact Me By Email:** [ngoquangtruong.personal@gmail.com](mailto:ngoquangtruong.personal@gmail.com)
-> <br />
+> 📫 **Contact Me By Email:** [ngoquangtruong.isme@gmail.com](mailto:ngoquangtruong.isme@gmail.com) > <br />
 > 😄 **Pronouns:** He/Him or Bắp🌽.
 > <br />
 > ⚡ **Fun Fact:** I am a sonder – aware of the complex lives of those around me. I enjoy making others happy and sharing my knowledge with them. I love engaging in both indoor and outdoor activities.
@@ -23,29 +22,19 @@
 ### 📫 Reach me on my social:
 
 <p align="center">
-  <a href="https://discord.gg/EfAQq4px" target="_blank" style="text-decoration: none !important;">
-    <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
+  <a href="https://discord.gg/uGTbpJH5" target="_blank" style="text-decoration: none !important;">
+  <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
   </a>
-  <a href="https://facebook.com/ngoquangtruong.personal" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
-  </a>
-  <a href="https://instagram.com/ngoquangtruong.personal" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-  </a>
-  <a href="https://linkedin.com/in/ngoquangtruong" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://pinterest.com/ngo_quang_truong" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/pinterest.png"/>
-  </a>
-  <a href="https://tiktok.com/@ngo_quang_truong" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/>
+  <a href="https://facebook.com/ngoquangtruongFB" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
+  <a href="https://tiktok.com/@ngoquangtruongtt" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/>
   </a>
   <a href="https://x.com/ngoquangtruongX" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=ClbD5JTFM7FA&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=ClbD5JTFM7FA&format=png&color=000000"/>
   </a>
-  <a href="https://youtube.com/@ngoquangtruong.personal" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="https://youtube.com/@ngoquangtruongYT" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
 </p>
 
