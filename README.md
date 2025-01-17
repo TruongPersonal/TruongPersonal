@@ -5,7 +5,7 @@
 ### 💫 About Me
 
 > 🔭 **Current Role**: Full Stack Developer & App Developer
-> <br />ngoquangtruong.isme@gmail.com
+> <br />
 > 🌱 **Learning Goals**: AI, Cross-platform App, UI/UX design
 > <br />
 > 👯 **Collaboration Interests:** Web and mobile development projects
