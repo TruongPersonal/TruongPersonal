@@ -60,8 +60,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=ngoquangtruong-personal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoquangtruongGH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ngoquangtruongGH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
     </td>
     <td>
       <p align="center"> 
