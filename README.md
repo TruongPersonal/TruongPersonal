@@ -25,15 +25,15 @@
   <a href="https://discord.gg/uGTbpJH5" target="_blank" style="text-decoration: none !important;">
   <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
   </a>
-  <a href="https://facebook.com/ngoquangtruongFB" target="_blank">
+  <a href="https://facebook.com/TruongPersonal" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
-  <a href="https://tiktok.com/@ngoquangtruongtt" target="_blank">
+  <a href="https://tiktok.com/@TruongPersonal" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/>
   </a>
-  <a href="https://x.com/ngoquangtruongX" target="_blank">
+  <a href="https://x.com/TruongPersonal" target="_blank">
   <img src="https://img.icons8.com/?size=48&id=ClbD5JTFM7FA&format=png&color=000000"/>
   </a>
-  <a href="https://youtube.com/@ngoquangtruongYT" target="_blank">
+  <a href="https://youtube.com/@TruongPersonal" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
 </p>
