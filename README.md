@@ -1,5 +1,5 @@
 <img align="left" width="50" src="./assets/images/Avatar.png" />
-<img align="right" src="https://komarev.com/ghpvc/?username=ngoquangtruongGH&style=flat-square" />
+<img align="right" src="https://komarev.com/ghpvc/?username=TruongPersonal&style=flat-square" />
 <h2 align="center">Hi, I'm Truong Cipher 👋</h2>
 
 ### 💫 About Me
@@ -60,8 +60,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoquangtruongGH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=ngoquangtruongGH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
     </td>
     <td>
       <p align="center"> 
