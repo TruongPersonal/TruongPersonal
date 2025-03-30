@@ -1,6 +1,6 @@
 <img align="left" width="50" src="./assets/images/Avatar.png" />
 <img align="right" src="https://komarev.com/ghpvc/?username=TruongPersonal&style=flat-square" />
-<h2 align="center">Hi, I'm Truong Cipher 👋</h2>
+<h2 align="center">Hi, I'm Truong 👋</h2>
 
 ### 💫 About Me
 
