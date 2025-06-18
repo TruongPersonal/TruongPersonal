@@ -15,9 +15,9 @@
 > 💬 **Ask Me About:** C/C++, Python, HTML5, CSS3, JavaScript
 > <br />
 > 📫 **Contact Me By Email:** [ngoquangtruong.isme@gmail.com](mailto:ngoquangtruong.isme@gmail.com) > <br />
-> 😄 **Pronouns:** He/Him or Bắp🌽.
+> 😄 **Pronouns:** He/Him or Bắp🌽
 > <br />
-> ⚡ **Fun Fact:** I am a sonder – aware of the complex lives of those around me. I enjoy making others happy and sharing my knowledge with them. I love engaging in both indoor and outdoor activities.
+> ⚡ **Fun Fact:** I am a sonder – aware of the complex lives of those around me. I enjoy making others happy and sharing my knowledge with them. I love engaging in both indoor and outdoor activities
 
 ### 📫 Reach me on my social:
 
