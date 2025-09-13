@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "7416d8645a0d2910",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b08ef1484e85c79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d460d05dce4150c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Tab mới"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3e078590f6c9219",
+    "type": "split",
+    "children": [
+      {
+        "id": "83de174bbb0b099f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d49a645419e79f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          },
+          {
+            "id": "dfb9593e90662005",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
+            }
+          },
+          {
+            "id": "7993d196a48025e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f9a49a363a18fe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3edda8e77c073ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50f5985793d3331d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến"
+            }
+          },
+          {
+            "id": "2629fbf3f4814893",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra"
+            }
+          },
+          {
+            "id": "ba2617c49499bf9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2b42537a0da06332",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2d460d05dce4150c",
+  "lastOpenFiles": [
+    "notes/Version Control System.md",
+    "notes/Git.md",
+    "assets/images/Git/Thuat_ngu-Origin.png",
+    "assets/images/Git/Thuat_ngu-Master.png",
+    "assets/images/Git/Hoat_dong-1.png",
+    "assets/images/Git/Hoat_dong-0.png",
+    "assets/images/Git",
+    "assets/images",
+    "images/Git",
+    "thư mục không có tiêu đề",
+    "Git",
+    "images",
+    "notes",
+    "assets",
+    "Version Control System.md",
+    "Git.md",
+    "Notes/Version Control System.md",
+    "Notes/Git.md",
+    "Notes",
+    "Version Control.md",
+    "\"Version.md"
+  ]
+}
