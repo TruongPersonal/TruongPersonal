@@ -133,25 +133,21 @@
 --- 
 
 ## 6. Lời khuyên
-### 6.1. Dùng Git Cheat Sheets
-- Tham khảo nhanh khi quên lệnh: 
+- Git Cheat Sheets: Tham khảo nhanh khi quên lệnh: 
 	- [Git Guide](https://rogerdudler.github.io/git-guide/) 
 	- [Git Official Tutorial](https://git-scm.com/docs/gittutorial) 
 	- [GitSheet](https://gitsheet.wtf/) 
 	- [Interactive Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) 
 	- [Git Explorer](https://gitexplorer.com/) 
 
-### 6.2. Commit thường xuyên
-- Chia nhỏ commit, commit đều đặn để dễ tích hợp code và hạn chế xung đột. 
+- Commit thường xuyên: Chia nhỏ commit, commit đều đặn để dễ tích hợp code và hạn chế xung đột. 
 
-### 6.3. Test trước khi commit
-- Chỉ commit khi thay đổi đã được test và đảm bảo hoạt động. 
+- Test trước khi commit: Chỉ commit khi thay đổi đã được test và đảm bảo hoạt động. 
 
-### 6.4. Viết message rõ ràng
-- Ghi chú chi tiết thay đổi để đồng đội dễ theo dõi. 
+- Viết message rõ ràng: Ghi chú chi tiết thay đổi để đồng đội dễ theo dõi. 
 
-### 6.5. Tận dụng branch
-- Dùng branch để thử nghiệm hoặc phát triển song song. 
+- Tận dụng branch: Dùng branch để thử nghiệm hoặc phát triển song song. 
 
-### 6.6 Theo Git Workflow chung
-- Cả team nên thống nhất một workflow (Git Flow, Feature Branch...) để phối hợp hiệu quả.
+- Theo Git Workflow chung: Cả team nên thống nhất một workflow (Git Flow, Feature Branch...) để phối hợp hiệu quả.
+
+	![[Loi_khuyen-Git_workflow.png]]

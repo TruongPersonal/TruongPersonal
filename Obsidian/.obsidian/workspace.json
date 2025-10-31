@@ -11,10 +11,14 @@
             "id": "2d460d05dce4150c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/Version Control System.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "Version Control System"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f9a49a363a18fe3",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quy tắc đặt tên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến"
+              "title": "Liên kết đến của Quy tắc đặt tên"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quy tắc đặt tên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liên kết đi ra"
+              "title": "Liên kết đi ra từ Quy tắc đặt tên"
             }
           },
           {
@@ -136,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Quy tắc đặt tên.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Đề cương"
+              "title": "Đề cương của Quy tắc đặt tên"
             }
           }
         ],
@@ -165,8 +173,11 @@
   },
   "active": "2d460d05dce4150c",
   "lastOpenFiles": [
-    "notes/Version Control System.md",
+    "notes/Quy tắc đặt tên.md",
     "notes/Git.md",
+    "notes/Version Control System.md",
+    "assets/images/Git/Loi_khuyen-Git_workflow.png",
+    "assets/images/Git/git-workflow.jpg",
     "assets/images/Git/Thuat_ngu-Origin.png",
     "assets/images/Git/Thuat_ngu-Master.png",
     "assets/images/Git/Hoat_dong-1.png",
