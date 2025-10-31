@@ -14,7 +14,7 @@
 > <br />
 > 📫 **Email:** [ngoquangtruong.isme@gmail.com](mailto:ngoquangtruong.isme@gmail.com)  
 > <br />
-> 📞 **Phone:** [(+84) 3xx x4x xx5](tel:0339140405)
+> 📞 **Phone:** [(+84)3xx.x4x.xx5](tel:0339140405)
 > <br />
 > 😄 **Nickname:** Pha (or Bắp🌽)  
 > <br />
@@ -26,6 +26,9 @@
   <a href="https://discord.com/users/truongpersonal" target="_blank" style="text-decoration: none !important;">
   <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
   </a>
+  <a href="https://www.linkedin.com/in/truongpersonal/" target="_blank" style="text-decoration: none !important;">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
   <a href="https://facebook.com/TruongPersonal" target="_blank" style="text-decoration: none !important;">
   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   </a>
