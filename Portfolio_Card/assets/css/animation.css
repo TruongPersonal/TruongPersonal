@@ -1,0 +1,28 @@
+@keyframes moveIn {
+  0% {
+    transform: scale(0);
+    border-radius: 50%;
+  }
+  25% {
+    transform: scale(0.2);
+    border-radius: 25%;
+  }
+  50% {
+    transform: scale(0.5);
+  }
+  75% {
+    transform: scale(0.75);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes shimmerBrightness {
+    0% {
+        left: -100%;
+    }
+    100% {
+        left: 150%;
+    }
+}
