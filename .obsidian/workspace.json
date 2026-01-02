@@ -11,10 +11,14 @@
             "id": "4acc341caa165037",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/Version Control System.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "Version Control System"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Version Control System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến"
+              "title": "Liên kết đến của Version Control System"
             }
           },
           {
@@ -174,6 +179,7 @@
   },
   "active": "4acc341caa165037",
   "lastOpenFiles": [
+    "notes/Git.md",
     "Chưa đặt tên.md",
     "notes/Version Control System.md",
     "notes/Quy tắc đặt tên.md",
@@ -181,7 +187,6 @@
     "assets/images/Avatar.png",
     "assets/images/Snake.svg",
     "assets/images/Coding_freak.gif",
-    "notes/Git.md",
     "assets/data/Deloy_web_voi_cong_nghe.pdf",
     "assets/data/12_cau_lenh_quan_trong_tren_git.pdf",
     "assets/images/Git/Thuat_ngu-Origin.png",

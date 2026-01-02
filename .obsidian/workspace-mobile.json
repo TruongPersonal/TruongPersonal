@@ -11,10 +11,14 @@
             "id": "8547ad720133d784",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "notes/Quy tắc đặt tên.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quy tắc đặt tên"
             }
           }
         ]
@@ -163,10 +167,10 @@
   },
   "active": "8547ad720133d784",
   "lastOpenFiles": [
+    "assets/data/12_cau_lenh_quan_trong_tren_git.pdf",
     "notes/Quy tắc đặt tên.md",
     "README.md",
     "assets/images/Avatar.png",
-    "assets/data/12_cau_lenh_quan_trong_tren_git.pdf",
     "assets/data/Deloy_web_voi_cong_nghe.pdf",
     "notes/Git.md",
     "notes/Version Control System.md"
