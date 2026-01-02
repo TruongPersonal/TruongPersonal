@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a95ec010186e9a9a",
+        "id": "a689db17111f39a2",
         "type": "tabs",
         "children": [
           {
-            "id": "c3c3a0060e4fc0b6",
+            "id": "0fdc6fdb3d87a32c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,12 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3c3a0060e4fc0b6",
+  "active": "0fdc6fdb3d87a32c",
   "lastOpenFiles": [
     "README.md",
+    "notes/Version Control System.md",
     "notes/Git.md",
     "notes/Quy tắc đặt tên.md",
-    "notes/Version Control System.md",
     "assets/data/Deloy_web_voi_cong_nghe.pdf",
     "assets/data/12_cau_lenh_quan_trong_tren_git.pdf",
     "assets/images/Git/Thuat_ngu-Origin.png",

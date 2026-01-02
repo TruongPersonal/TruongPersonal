@@ -4,14 +4,14 @@
 
 ### 💫 About Me
 
-> 🎓 **Current Role:**  IT Student (Software Technology) at University of Sciences, Hue University Việt Nam
-> 🌱 **Learning Focus:** Full-stack web development, mobile apps and artificial intelligence
-> 👯 **Interested In:** Building real-world systems
-> 💬 **Ask Me About:** C/C++, Java, Python
-> 📫 **Email:** [ngoquangtruong.isme@gmail.com](mailto:ngoquangtruong.isme@gmail.com)  
-> 📞 **Phone:** [(+84)3xx.x4x.xx5](tel:0339140405)
-> 😄 **Nickname:** Pha (or Bắp🌽)  
-> ⚡ **Fun Fact:** I love learning new things, building cool projects, and helping others grow
+> 🎓 **Current Role:**  IT Student (Software Technology) at University of Sciences, Hue University Viet Nam</br>
+> 🌱 **Learning Focus:** Full-stack web development, mobile apps and artificial intelligence</br>
+> 👯 **Interested In:** Building real-world systems</br>
+> 💬 **Ask Me About:** C/C++, Java, Python</br>
+> 📫 **Email:** [ngoquangtruong.isme@gmail.com](mailto:ngoquangtruong.isme@gmail.com)</br>
+> 📞 **Phone:** [(+84)3xx.x4x.xx5](tel:0339140405)</br>
+> 😄 **Nickname:** Pha (or Bắp🌽)</br>
+> ⚡ **Fun Fact:** I love learning new things, building cool projects, and helping others grow</br>
 
 ### 📫 Reach me on my social:
 <p align="center">
