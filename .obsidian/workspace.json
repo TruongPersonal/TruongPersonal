@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "701c8fbc28c651a1",
+        "id": "91ff4890df843764",
         "type": "tabs",
         "children": [
           {
-            "id": "4acc341caa165037",
+            "id": "0be5136a22ae9ccd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/Version Control System.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "Version Control System"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quy tắc đặt tên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến"
+              "title": "Liên kết đến của Quy tắc đặt tên"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quy tắc đặt tên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liên kết đi ra"
+              "title": "Liên kết đi ra từ Quy tắc đặt tên"
             }
           },
           {
@@ -136,29 +142,22 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Quy tắc đặt tên.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Đề cương"
-            }
-          },
-          {
-            "id": "e213207959e299f4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Đề cương của Quy tắc đặt tên"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,22 +167,17 @@
       "daily-notes:Mở ghi chú hôm nay": false,
       "templates:Chèn mẫu": false,
       "command-palette:Mở khay lệnh": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "4acc341caa165037",
+  "active": "0be5136a22ae9ccd",
   "lastOpenFiles": [
-    "Chưa đặt tên.md",
-    "notes/Version Control System.md",
     "notes/Quy tắc đặt tên.md",
-    "README.md",
-    "assets/images/Avatar.png",
-    "assets/images/Snake.svg",
-    "assets/images/Coding_freak.gif",
     "notes/Git.md",
     "assets/data/Deloy_web_voi_cong_nghe.pdf",
     "assets/data/12_cau_lenh_quan_trong_tren_git.pdf",
+    "notes/Version Control System.md",
+    "README.md",
     "assets/images/Git/Thuat_ngu-Origin.png",
     "assets/images/Git/Thuat_ngu-Master.png",
     "assets/images/Git/Loi_khuyen-Git_workflow.png",
