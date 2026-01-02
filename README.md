@@ -4,24 +4,16 @@
 
 ### 💫 About Me
 
-> 🎓 **Current Role:**  IT Student (Software Technology) at University of Sciences, Hue University Viet Nam
-> <br />
+> 🎓 **Current Role:**  IT Student (Software Technology) at University of Sciences, Hue University Việt Nam
 > 🌱 **Learning Focus:** Full-stack web development, mobile apps and artificial intelligence
-> <br />
 > 👯 **Interested In:** Building real-world systems  
-> <br />
 > 💬 **Ask Me About:** C/C++, Java, Python
-> <br />
 > 📫 **Email:** [ngoquangtruong.isme@gmail.com](mailto:ngoquangtruong.isme@gmail.com)  
-> <br />
 > 📞 **Phone:** [(+84)3xx.x4x.xx5](tel:0339140405)
-> <br />
 > 😄 **Nickname:** Pha (or Bắp🌽)  
-> <br />
 > ⚡ **Fun Fact:** I love learning new things, building cool projects, and helping others grow
 
 ### 📫 Reach me on my social:
-
 <p align="center">
   <a href="https://www.linkedin.com/in/truongpersonal/" target="_blank" style="text-decoration: none !important;">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
@@ -38,7 +30,6 @@
 </p>
 
 ### 💻 My skills and Tech Stack:
-
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -60,7 +51,6 @@
 </p>
 
 ### 📊 GitHub Stats and Activities:
-
 <table style="width:100%;">
   <tr>
     <td width="50%">
@@ -79,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="./assets/images/Snake.svg" alt="Developer Quote" width="100%"/>
+  <img src="./assets/images/Snake.svg" alt="Snake" width="100%"/>
 </p>

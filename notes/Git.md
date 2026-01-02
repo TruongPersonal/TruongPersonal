@@ -83,5 +83,5 @@
 
 ### Tài liệu tham khảo nhanh
 - [Git Explorer](https://gitexplorer.com/) - Tìm lệnh theo nhu cầu thực tế
-- [Git Official Tutorial](https://git-scm.com/docs/gittutorial) , [Git Guide](https://rogerdudler.github.io/git-guide/) - Hướng dẫn trực quan
+- [Git Official Tutorial](https://git-scm.com/docs/gittutorial), [Git Guide](https://rogerdudler.github.io/git-guide/) - Hướng dẫn trực quan
 - [Interactive Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html),  [GitSheet](https://gitsheet.wtf/) - Bản đồ các khu vực trong Git
