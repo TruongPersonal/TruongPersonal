@@ -6,7 +6,7 @@
 
 > 🎓 **Current Role:**  IT Student (Software Technology) at University of Sciences, Hue University Việt Nam
 > 🌱 **Learning Focus:** Full-stack web development, mobile apps and artificial intelligence
-> 👯 **Interested In:** Building real-world systems  
+> 👯 **Interested In:** Building real-world systems
 > 💬 **Ask Me About:** C/C++, Java, Python
 > 📫 **Email:** [ngoquangtruong.isme@gmail.com](mailto:ngoquangtruong.isme@gmail.com)  
 > 📞 **Phone:** [(+84)3xx.x4x.xx5](tel:0339140405)
