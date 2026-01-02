@@ -11,10 +11,14 @@
             "id": "0fdc6fdb3d87a32c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "README"
             }
           }
         ]
@@ -178,10 +182,13 @@
   },
   "active": "0fdc6fdb3d87a32c",
   "lastOpenFiles": [
-    "README.md",
-    "notes/Version Control System.md",
-    "notes/Git.md",
     "notes/Quy tắc đặt tên.md",
+    "assets/images/Avatar.png",
+    "notes/Version Control System.md",
+    "assets/images/Snake.svg",
+    "assets/images/Coding_freak.gif",
+    "README.md",
+    "notes/Git.md",
     "assets/data/Deloy_web_voi_cong_nghe.pdf",
     "assets/data/12_cau_lenh_quan_trong_tren_git.pdf",
     "assets/images/Git/Thuat_ngu-Origin.png",
