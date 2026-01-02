@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b84b00f8d1b41355",
+        "id": "701c8fbc28c651a1",
         "type": "tabs",
         "children": [
           {
-            "id": "47003324a5ba4120",
+            "id": "4acc341caa165037",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quy tắc đặt tên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến của Quy tắc đặt tên"
+              "title": "Liên kết đến"
             }
           },
           {
@@ -109,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quy tắc đặt tên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liên kết đi ra từ Quy tắc đặt tên"
+              "title": "Liên kết đi ra"
             }
           },
           {
@@ -138,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quy tắc đặt tên.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Đề cương của Quy tắc đặt tên"
+              "title": "Đề cương"
             }
           },
           {
@@ -157,8 +154,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47003324a5ba4120",
+  "active": "4acc341caa165037",
   "lastOpenFiles": [
+    "Chưa đặt tên.md",
     "notes/Version Control System.md",
     "notes/Quy tắc đặt tên.md",
     "README.md",
