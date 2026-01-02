@@ -4,11 +4,11 @@
 
 ### 💫 About Me
 
-> 🎓 **Current Role:** Software Engineering Student at Hue University of Sciences  
+> 🎓 **Current Role:**  IT Student (Software Technology) at University of Sciences, Hue University Viet Nam
 > <br />
-> 🌱 **Learning Focus:** Full-stack web development, mobile apps and UI/UX design and Artificial Intelligence
+> 🌱 **Learning Focus:** Full-stack web development, mobile apps and artificial intelligence
 > <br />
-> 👯 **Interested In:** Building real-world web and mobile apps  
+> 👯 **Interested In:** Building real-world systems  
 > <br />
 > 💬 **Ask Me About:** C/C++, Java, Python
 > <br />
@@ -18,28 +18,22 @@
 > <br />
 > 😄 **Nickname:** Pha (or Bắp🌽)  
 > <br />
-> ⚡ **Fun Fact:** I love learning new things, building cool projects, and helping others grow.
+> ⚡ **Fun Fact:** I love learning new things, building cool projects, and helping others grow
 
 ### 📫 Reach me on my social:
 
 <p align="center">
-  <a href="https://discord.com/users/truongpersonal" target="_blank" style="text-decoration: none !important;">
-  <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
-  </a>
   <a href="https://www.linkedin.com/in/truongpersonal/" target="_blank" style="text-decoration: none !important;">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
   <a href="https://facebook.com/TruongPersonal" target="_blank" style="text-decoration: none !important;">
   <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   </a>
-  <a href="https://x.com/TruongPersonal" target="_blank" style="text-decoration: none !important;">
-  <img src="https://img.icons8.com/?size=48&id=ClbD5JTFM7FA&format=png&color=000000" style="text-decoration: none !important;"/>
-  </a>
-  <a href="https://tiktok.com/@TruongPersonal" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/tiktok.png" style="text-decoration: none !important;"/>
-  </a>
   <a href="https://youtube.com/@TruongPersonal" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" style="text-decoration: none !important;"/>
+  </a>
+<a href="https://discord.com/users/truongpersonal" target="_blank" style="text-decoration: none !important;">
+  <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
   </a>
 </p>
 
@@ -69,11 +63,12 @@
 
 <table style="width:100%;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%"/>
+    <td width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" alt="Top Languages" width="100%"/>
+      <br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
     </td>
-    <td>
+    <td width="50%">
       <p align="center"> 
         <img src="./assets/images/Coding_freak.gif" alt="Developer" width="100%"/>
       </p>
