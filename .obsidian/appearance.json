@@ -1,4 +1,5 @@
 {
   "cssTheme": "GitHub Theme",
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSize": 20
 }
