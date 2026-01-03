@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f9a49a363a18fe3",
@@ -181,15 +182,15 @@
   "active": "4acc341caa165037",
   "lastOpenFiles": [
     "notes/Quy tắc đặt tên.md",
-    "notes/Version Control System.md",
-    "assets/images/Coding_freak.gif",
-    "notes/Git.md",
-    "Chưa đặt tên.md",
-    "README.md",
-    "assets/images/Avatar.png",
     "assets/images/Snake.svg",
+    "assets/images/Coding_freak.gif",
+    "assets/images/Avatar.png",
     "assets/data/Deloy_web_voi_cong_nghe.pdf",
     "assets/data/12_cau_lenh_quan_trong_tren_git.pdf",
+    "notes/Git.md",
+    "notes/Version Control System.md",
+    "Chưa đặt tên.md",
+    "README.md",
     "assets/images/Git/Thuat_ngu-Origin.png",
     "assets/images/Git/Thuat_ngu-Master.png",
     "assets/images/Git/Loi_khuyen-Git_workflow.png",
