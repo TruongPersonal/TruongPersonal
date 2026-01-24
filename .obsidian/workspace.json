@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "701c8fbc28c651a1",
+        "id": "7b00cbf881e9f241",
         "type": "tabs",
         "children": [
           {
-            "id": "4acc341caa165037",
+            "id": "acc9c180ed692994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/Git.md",
-                "mode": "preview",
-                "source": false
+                "file": "assets/data/Deloy_web_voi_cong_nghe.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Git"
+              "icon": "lucide-file-text",
+              "title": "Deloy_web_voi_cong_nghe"
             }
           }
         ]
@@ -178,17 +176,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4acc341caa165037",
+  "active": "acc9c180ed692994",
   "lastOpenFiles": [
+    "assets/data/12_cau_lenh_quan_trong_tren_git.pdf",
+    "README.md",
+    "notes/Git.md",
     "notes/Quy tắc đặt tên.md",
     "notes/Version Control System.md",
-    "notes/Git.md",
     "assets/data/Deloy_web_voi_cong_nghe.pdf",
-    "README.md",
     "assets/images/Snake.svg",
     "assets/images/Coding_freak.gif",
     "assets/images/Avatar.png",
-    "assets/data/12_cau_lenh_quan_trong_tren_git.pdf",
     "Chưa đặt tên.md",
     "assets/images/Git/Thuat_ngu-Origin.png",
     "assets/images/Git/Thuat_ngu-Master.png",
