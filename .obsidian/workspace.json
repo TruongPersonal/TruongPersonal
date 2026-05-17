@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aad1facf30ea3e12",
+        "id": "72025a0264999553",
         "type": "tabs",
         "children": [
           {
-            "id": "69776a194b32595c",
+            "id": "925b980ee967ff7d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/data/12 câu lệnh quan trọng trên Git.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "12 câu lệnh quan trọng trên Git"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Tab mới"
             }
           }
         ]
@@ -176,20 +174,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2d49a645419e79f",
+  "active": "925b980ee967ff7d",
   "lastOpenFiles": [
-    "notes/Git.md",
-    "assets/data/Deloy_web_voi_cong_nghe.pdf",
+    "assets/images/Git/Thuat_ngu-Master.png",
+    "assets/data/Deloy Web với công nghệ.pdf",
+    "assets/images/Avatar.png",
     "assets/data/12 câu lệnh quan trọng trên Git.pdf",
+    "notes/Git.md",
     "README.md",
     "notes/Quy tắc đặt tên.md",
     "notes/Version Control System.md",
     "assets/images/Snake.svg",
     "assets/images/Coding_freak.gif",
-    "assets/images/Avatar.png",
     "Chưa đặt tên.md",
     "assets/images/Git/Thuat_ngu-Origin.png",
-    "assets/images/Git/Thuat_ngu-Master.png",
     "assets/images/Git/Loi_khuyen-Git_workflow.png",
     "assets/images/Git/Hoat_dong-1.png",
     "assets/images/Git/Hoat_dong-0.png",
