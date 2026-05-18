@@ -1,4 +1,4 @@
-<img align="left" width="50" src="./assets/images/Avatar.png" />
+<img align="left" width="50" src="./images/Avatar.png" />
 <img align="right" src="https://komarev.com/ghpvc/?username=TruongPersonal&style=flat-square" />
 <h2 align="center">Hi, there 👋</h2>
 
@@ -60,7 +60,7 @@
     </td>
     <td width="50%">
       <p align="center"> 
-        <img src="./assets/images/Coding_freak.gif" alt="Developer" width="100%"/>
+        <img src="./images/Coding_freak.gif" alt="Developer" width="100%"/>
       </p>
     </td>
   </tr>
@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="./assets/images/Snake.svg" alt="Snake" width="100%"/>
+  <img src="./images/Snake.svg" alt="Snake" width="100%"/>
 </p>
