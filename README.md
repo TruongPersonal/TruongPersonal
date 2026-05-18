@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./images/Avatar.png" width="110" style="border-radius:50%;" />
 
-  <h2>Ngo Quang Truong &nbsp;·&nbsp; Pha 🌽</h2>
+  <h2>Truong Quang Ngo &nbsp;·&nbsp; TruongPersonal</h2>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=TruongPersonal&style=flat-square&color=6366f1&label=profile+views" />
@@ -16,18 +16,18 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="30%" valign="top">
 
 ```yaml
 name       : Ngo Quang Truong (Pha / Bắp 🌽)
 role       : IT Student — Software Engineering
-university : University of Sciences, Hue University · VN
-focus      : Full-stack · Mobile · Artificial Intelligence
+university : University of Sciences, Hue University · Viet Nam
+focus      : Full-stack · Mobile · AI
 currently  : Building real-world systems & learning every day
 ```
 
   </td>
-  <td width="45%" align="center" valign="middle">
+  <td width="70%" align="center" valign="middle">
     <img src="./images/Coding_freak.gif" width="100%" alt="Coding" />
   </td>
   </tr>
@@ -97,7 +97,7 @@ currently  : Building real-world systems & learning every day
       <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" />
     </td>
     <td width="25%" valign="top">
-      <b>Backend & DB</b><br/><br/>
+      <b>Backend & Database</b><br/><br/>
       <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
@@ -117,12 +117,12 @@ currently  : Building real-world systems & learning every day
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="35%" valign="top">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github" width="100%" />
       <br/>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" width="100%" />
     </td>
-    <td width="45%" valign="top">
+    <td width="65%" valign="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TruongPersonal&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
