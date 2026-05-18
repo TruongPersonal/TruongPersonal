@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td width="30%" valign="top">
+    <td width="30%" valign="middle">
 
 ```yaml
 name       : Ngo Quang Truong (Pha / Bắp 🌽)
@@ -39,7 +39,7 @@ currently  : Building real-world systems & learning every day
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="middle">
 
 ```json
 {
@@ -79,7 +79,7 @@ currently  : Building real-world systems & learning every day
 
 <table>
   <tr>
-    <td width="25%" valign="top">
+    <td width="25%" valign="middle">
       <b>Languages</b><br/><br/>
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
@@ -88,7 +88,7 @@ currently  : Building real-world systems & learning every day
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" /><br/>
       <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
     </td>
-    <td width="25%" valign="top">
+    <td width="25%" valign="middle">
       <b>Frontend</b><br/><br/>
       <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" /><br/>
@@ -96,13 +96,13 @@ currently  : Building real-world systems & learning every day
       <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" />
     </td>
-    <td width="25%" valign="top">
+    <td width="25%" valign="middle">
       <b>Backend & Database</b><br/><br/>
       <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
     </td>
-    <td width="25%" valign="top">
+    <td width="25%" valign="middle">
       <b>Tools</b><br/><br/>
       <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" /><br/>
@@ -117,7 +117,7 @@ currently  : Building real-world systems & learning every day
 
 <table>
   <tr>
-    <td width="35%" valign="top">
+    <td width="35%" valign="middle">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github" width="100%" />
       <br/>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TruongPersonal&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" width="100%" />
