@@ -43,8 +43,8 @@ currently  : Building real-world systems & learning every day
 
 ```json
 {
-  "email"    : "ngoquangtruong.isme@gmail.com",
-  "phone"    : "(+84) 339.140.405",
+  "email"    : "ngoquangtruong.isme@outlook.com.vn",
+  "phone"    : "(+84) 567.622.357",
   "linkedin" : "linkedin.com/in/truongpersonal",
   "facebook" : "facebook.com/TruongPersonal",
   "youtube"  : "youtube.com/@TruongPersonal",
